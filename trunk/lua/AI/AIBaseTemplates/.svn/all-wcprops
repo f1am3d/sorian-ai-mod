@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/227/trunk/lua/AI/AIBaseTemplates
+END
+SorianExpansionWaterFull.lua
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/184/trunk/lua/AI/AIBaseTemplates/SorianExpansionWaterFull.lua
+END
+SorianMainBalanced.lua
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/227/trunk/lua/AI/AIBaseTemplates/SorianMainBalanced.lua
+END
+SorianNavalExpansionSmall.lua
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/227/trunk/lua/AI/AIBaseTemplates/SorianNavalExpansionSmall.lua
+END
+SorianMainAir.lua
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/227/trunk/lua/AI/AIBaseTemplates/SorianMainAir.lua
+END
+SorianNavalExpansionLarge.lua
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/227/trunk/lua/AI/AIBaseTemplates/SorianNavalExpansionLarge.lua
+END
+SorianExpansionBalancedFull.lua
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/170/trunk/lua/AI/AIBaseTemplates/SorianExpansionBalancedFull.lua
+END
+SorianExpansionAirFull.lua
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/170/trunk/lua/AI/AIBaseTemplates/SorianExpansionAirFull.lua
+END
+SorianMainTurtle.lua
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/227/trunk/lua/AI/AIBaseTemplates/SorianMainTurtle.lua
+END
+SorianMainRush.lua
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/227/trunk/lua/AI/AIBaseTemplates/SorianMainRush.lua
+END
+SorianMainWater.lua
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/227/trunk/lua/AI/AIBaseTemplates/SorianMainWater.lua
+END
+SorianExpansionTurtleFull.lua
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/170/trunk/lua/AI/AIBaseTemplates/SorianExpansionTurtleFull.lua
+END
+SorianExpansionBalancedSmall.lua
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/183/trunk/lua/AI/AIBaseTemplates/SorianExpansionBalancedSmall.lua
+END
